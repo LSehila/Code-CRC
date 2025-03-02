@@ -32,9 +32,3 @@ Pour chaque opération, l'utilisateur doit sélectionner le polynôme générate
 
 - **Java JDK** : Assurez-vous d'avoir installé le Java Development Kit pour compiler et exécuter le programme.
 - **IDE** : Utilisez un environnement de développement comme Eclipse, IntelliJ IDEA ou NetBeans pour faciliter la gestion du projet.
-
-
-1. **Cloner le Repository**  
-   Clonez le projet sur votre machine en exécutant la commande suivante :
-   ```bash
-   git clone https://github.com/VotreUtilisateur/CRC-Code-Java.git
